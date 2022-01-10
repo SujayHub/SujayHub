@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Spring Boot Microservices and Cloud
 - 🌱 I’m currently learning more about DS Algo And Design Pattern
 - 💞️ I’m looking to collaborate on DS Algo
-- 📫 you can reach me https://www.linkedin.com/in/sujay-samanta-533127103/
+- 📫 you can reach me at https://www.linkedin.com/in/sujay-samanta-533127103/
 
 <!---
 SujayHub/SujayHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
